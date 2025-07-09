@@ -1,0 +1,32 @@
+# Python
+venv*/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Environment
+.env
+.env.*
+
+# Node
+node_modules/
+
+# Mac
+*.DS_Store 
